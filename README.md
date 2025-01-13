@@ -60,7 +60,16 @@ A tool to detect and analyze coins in images.
 - **Commits:** 6  
 ![Alt text](coin-detections.png)
 ---
+### 7. [Video Frame Sharpness Analyze](https://github.com/lalitavai/videoFrameSharpness)  
+This project analyzes the sharpness (or focus) of frames in a video using two methods.
 
+**Key Features:**  
+- Variance of Absolute Values of the Laplacian (VAVOL)
+- Sum of Modified Laplacian (SML)
+- It identifies and displays the frames with the maximum sharpness using these methods, making it useful for applications like autofocus testing or video quality analysis..  
+- **Commits:** 4  
+![Alt text](autofocus-video-lapacian.png)
+---
 
 ## 🚀 How to Get Started
 1. Click on any project link above to explore the repository.
