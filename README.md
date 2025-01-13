@@ -6,7 +6,15 @@ Hi there! 👋 I'm excited to share some of my interesting projects with you. Th
 
 ## 📂 List of Projects
 
-### 1. [Document Scanner](https://github.com/lalitavai/documentScanner)  
+### 1. [Image Instagram Filters](https://github.com/lalitavai/imageInstgramFilters)  
+Apply Instagram-like filters to images for enhanced aesthetics.  
+**Key Features:**  
+- Predefined filters like sepia, grayscale, and more.  
+- Lightweight and easy to integrate.  
+- **Commits:** 6  
+![Alt text](instgram-filters.png)
+---
+### 2. [Document Scanner](https://github.com/lalitavai/documentScanner)  
 A simple and effective tool to scan and process documents.  
 **Key Features:**  
 - Detect and crop documents from images.  
@@ -16,50 +24,42 @@ A simple and effective tool to scan and process documents.
 ![Alt text](doucmenr-scanner-project.png)
 ---
 
-### 2. [Blemish Removal](https://github.com/lalitavai/blemishRemoval)  
+### 3. [Blemish Removal](https://github.com/lalitavai/blemishRemoval)  
 A blemish removal tool using image processing techniques.  
 **Key Features:**  
 - Automatically detect and remove blemishes.  
 - Customizable spot removal for photos.  
 - **Commits:** 11  
-
+![Alt text](blemish-project.png)
 ---
 
-### 3. [Green Screen Effect](https://github.com/lalitavai/greenScreenEffect)  
+### 4. [Green Screen Effect](https://github.com/lalitavai/greenScreenEffect)  
 Implement a green screen effect to replace backgrounds in images or videos.  
 **Key Features:**  
 - Replace any green background with custom images.  
 - Optimized for fast processing.  
 - **Commits:** 9  
-
+![Alt text](greenscreeneffect.png)
 ---
 
-### 4. [Image Cropping Tool](https://github.com/lalitavai/imageCroppingTool)  
+### 5. [Image Cropping Tool](https://github.com/lalitavai/imageCroppingTool)  
 An interactive tool for cropping images to desired dimensions.  
 **Key Features:**  
 - Supports freehand and predefined aspect ratio cropping.  
 - Simple, intuitive UI for cropping operations.  
 - **Commits:** 8  
-
+![Alt text](imageCropping.png)
 ---
 
-### 5. [Coin Detection and Analysis](https://github.com/lalitavai/coinDetectionAnalysis)  
+### 6. [Coin Detection and Analysis](https://github.com/lalitavai/coinDetectionAnalysis)  
 A tool to detect and analyze coins in images.  
 **Key Features:**  
 - Identify and count coins of different sizes.  
 - Analyze features such as size and position.  
 - **Commits:** 6  
-
+![Alt text](coin-detections.png)
 ---
 
-### 6. [Image Instagram Filters](https://github.com/lalitavai/imageInstgramFilters)  
-Apply Instagram-like filters to images for enhanced aesthetics.  
-**Key Features:**  
-- Predefined filters like sepia, grayscale, and more.  
-- Lightweight and easy to integrate.  
-- **Commits:** 6  
-
----
 
 ## 🚀 How to Get Started
 1. Click on any project link above to explore the repository.
