@@ -1,6 +1,7 @@
 # Welcome to My GitHub Projects 🌟
 
-Hi there! 👋 I'm excited to share some of my interesting projects with you. These repositories showcase my work in computer vision, image processing, and more. Feel free to explore, fork, and contribute!
+Hi there! 👋 I'm excited to share some of my interesting projects with you. 
+These repositories showcase my work in AI computer vision, image processing, and more. Feel free to explore, fork, and contribute!
 
 ---
 
