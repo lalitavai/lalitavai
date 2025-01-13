@@ -70,7 +70,17 @@ This project analyzes the sharpness (or focus) of frames in a video using two me
 - **Commits:** 4  
 ![Alt text](autofocus-video-lapacian.png)
 ---
+### 8. [Panoramic Image Stitching](https://github.com/lalitavai/panoramaImageStitching)  
+This project creates panoramic images by stitching multiple overlapping scene images using OpenCV's image stitching API. The result is a seamless panoramic view created from a series of input images.  
+**Key Features:**  
+- Automatic Image Stitching: Combines multiple overlapping images into a single panoramic image.
+- Flexible Input Directory: Easily specify a directory containing the images to stitch.
+- Error Handling: Reports stitching failures with status codes for debugging.
+- Seamless Integration: Uses OpenCV’s cv2.Stitcher class for robust image stitching.  
+- **Commits:** 6  
+![Alt text](stiched-image.png)
 
+--
 ## 🚀 How to Get Started
 1. Click on any project link above to explore the repository.
 2. Follow the instructions in each project’s README to run or contribute.
