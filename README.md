@@ -12,7 +12,8 @@ A simple and effective tool to scan and process documents.
 - Detect and crop documents from images.  
 - Enhance image quality for better readability.  
 - **Commits:** 16  
-<img src="ddoucmenr-scanner-project.png" alt="Document Scanner Project" width="300">
+
+![Alt text](doucmenr-scanner-project.png)
 ---
 
 ### 2. [Blemish Removal](https://github.com/lalitavai/blemishRemoval)  
