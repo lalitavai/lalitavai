@@ -77,7 +77,7 @@ This project creates panoramic images by stitching multiple overlapping scene im
 - Flexible Input Directory: Easily specify a directory containing the images to stitch.
 - Error Handling: Reports stitching failures with status codes for debugging.
 - Seamless Integration: Uses OpenCV’s cv2.Stitcher class for robust image stitching.  
-- **Commits:** 6  
+- **Commits:** 15  
 ![Alt text](stiched-image.png)
 
 --
