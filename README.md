@@ -49,7 +49,6 @@ This project leverages **Flowise AI Agents** to create intelligent chatbots for 
 3. **Sahaja Yoga Chatbot** – A chatbot that provides information about Sahaja Yoga, utilizing data sourced from [Shrimataji.org](https://www.shrimataji.org).
    ![Alt text](ShriMatajiOrg-chat.png)
 
-![Alt text](NPL-detection.png)
 
 ### 6. [Blemish Removal](https://github.com/lalitavai/blemishRemoval)  
 A blemish removal tool using image processing techniques.  
