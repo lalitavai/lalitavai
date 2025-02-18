@@ -5,6 +5,8 @@ These repositories showcase my work in AI computer vision, image processing, Dee
 
 #Deep Learning with PyTorch 2.x – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
 
+AI Agents Projects :Flowise is a powerful, open-source, low-code platform for building AI-powered workflows and agents. It allows developers to design, deploy, and integrate AI models with ease
+
 ---
 
 ## 📂 List of Projects
@@ -40,8 +42,16 @@ A simple and effective tool to scan and process documents.
 
 ![Alt text](doucmenr-scanner-project.png)
 ---
+### 5. [AI Chatbots for KNC Product Catalogue & Sahaja Yoga](https://github.com/lalitavai/ai-agents) 
+This project leverages **Flowise AI Agents** to create intelligent chatbots for two distinct purposes:
+1. **KNC Product Catalogue Chatbot** – A chatbot designed to assist users in exploring and understanding the KNC product catalog efficiently.
+   ![Alt text](knc-flowise.png)
+3. **Sahaja Yoga Chatbot** – A chatbot that provides information about Sahaja Yoga, utilizing data sourced from [Shrimataji.org](https://www.shrimataji.org).
+   ![Alt text](ShriMatajiOrg-chat.png)
 
-### 5. [Blemish Removal](https://github.com/lalitavai/blemishRemoval)  
+![Alt text](NPL-detection.png)
+
+### 6. [Blemish Removal](https://github.com/lalitavai/blemishRemoval)  
 A blemish removal tool using image processing techniques.  
 **Key Features:**  
 - Automatically detect and remove blemishes.  
@@ -50,7 +60,7 @@ A blemish removal tool using image processing techniques.
 ![Alt text](blemish-project.png)
 ---
 
-### 6. [Green Screen Effect](https://github.com/lalitavai/greenScreenEffect)  
+### 7. [Green Screen Effect](https://github.com/lalitavai/greenScreenEffect)  
 Implement a green screen effect to replace backgrounds in images or videos.  
 **Key Features:**  
 - Replace any green background with custom images.  
@@ -59,7 +69,7 @@ Implement a green screen effect to replace backgrounds in images or videos.
 ![Alt text](greenscreeneffect.png)
 ---
 
-### 7. [Image Cropping Tool](https://github.com/lalitavai/imageCroppingTool)  
+### 8. [Image Cropping Tool](https://github.com/lalitavai/imageCroppingTool)  
 An interactive tool for cropping images to desired dimensions.  
 **Key Features:**  
 - Supports freehand and predefined aspect ratio cropping.  
@@ -68,7 +78,7 @@ An interactive tool for cropping images to desired dimensions.
 ![Alt text](imageCropping.png)
 ---
 
-### 8. [Coin Detection and Analysis](https://github.com/lalitavai/coinDetectionAnalysis)  
+### 9. [Coin Detection and Analysis](https://github.com/lalitavai/coinDetectionAnalysis)  
 A tool to detect and analyze coins in images.  
 **Key Features:**  
 - Identify and count coins of different sizes.  
@@ -76,7 +86,7 @@ A tool to detect and analyze coins in images.
 - **Commits:** 6  
 ![Alt text](coin-detections.png)
 ---
-### 9. [Video Frame Sharpness Analyze](https://github.com/lalitavai/videoFrameSharpness)  
+### 10. [Video Frame Sharpness Analyze](https://github.com/lalitavai/videoFrameSharpness)  
 This project analyzes the sharpness (or focus) of frames in a video using two methods.
 
 **Key Features:**  
@@ -86,7 +96,7 @@ This project analyzes the sharpness (or focus) of frames in a video using two me
 - **Commits:** 4  
 ![Alt text](autofocus-video-lapacian.png)
 ---
-### 10. [Panoramic Image Stitching](https://github.com/lalitavai/panoramaImageStitching)  
+### 11. [Panoramic Image Stitching](https://github.com/lalitavai/panoramaImageStitching)  
 This project creates panoramic images by stitching multiple overlapping scene images using OpenCV's image stitching API. The result is a seamless panoramic view created from a series of input images.  
 **Key Features:**  
 - Automatic Image Stitching: Combines multiple overlapping images into a single panoramic image.
@@ -96,7 +106,7 @@ This project creates panoramic images by stitching multiple overlapping scene im
 - **Commits:** 15  
 ![Alt text](stiched-image.png)
 
-### 11. [Data Understanding & Pipeline Check](https://github.com/lalitavai/DataunderstandingAndPiplelineCheck) 
+### 12. [Data Understanding & Pipeline Check](https://github.com/lalitavai/DataunderstandingAndPiplelineCheck) 
 
 This project focuses on understanding the dataset and verifying the training pipeline before training a full-scale deep learning model. The structured approach ensures that each step in the data pipeline is validated before committing resources to extensive training.
 ![Alt text](data-understanding-classifications.png)
@@ -118,6 +128,7 @@ This project focuses on understanding the dataset and verifying the training pip
 - Flowise for Ai Agents
 - Ollama server https://ollama.com/: Storing embedding for vectorise db
 - Other libraries for image processing
+- Node.js
 
 ## 🛠️ Models Used
 - CNNs
