@@ -1,13 +1,19 @@
 # Welcome to My GitHub Projects 🌟
 
 Hi there! 👋 I'm excited to share some of my interesting projects with you. 
-These repositories showcase my work in AI computer vision, image processing, and more. Feel free to explore, fork, and contribute!
+These repositories showcase my work in AI computer vision, image processing, Deep learning with CNNs and more. Feel free to explore, fork, and contribute!
 
 ---
 
 ## 📂 List of Projects
 
-### 1. [Image Instagram Filters](https://github.com/lalitavai/imageInstgramFilters)  
+##Deep Learning with PyTorch 2.x – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
+### 1. [Automatic Number Plate Recognition (ANPR) for Electronic Toll Collection](https://github.com/lalitavai/AutomaticNumberPlateRecognition) 
+
+Automatic Number Plate Recognition (ANPR) is a crucial component of Electronic Toll Collection (ETC) systems. The primary objective of this project is to detect and recognize vehicle registration plates from images. This involves processing a dataset containing labeled images of vehicle registration plates.
+![Alt text](NPL-detection.png)
+
+### 2. [Image Instagram Filters](https://github.com/lalitavai/imageInstgramFilters)  
 Apply Instagram-like filters to images for enhanced aesthetics.  
 **Key Features:**  
 - Predefined filters like sepia, grayscale, and more.  
@@ -15,7 +21,7 @@ Apply Instagram-like filters to images for enhanced aesthetics.
 - **Commits:** 6  
 ![Alt text](instgram-filters.png)
 ---
-### 2. [Document Scanner](https://github.com/lalitavai/documentScanner)  
+### 3. [Document Scanner](https://github.com/lalitavai/documentScanner)  
 A simple and effective tool to scan and process documents.  
 **Key Features:**  
 - Detect and crop documents from images.  
