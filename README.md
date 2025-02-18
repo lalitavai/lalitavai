@@ -3,9 +3,9 @@
 Hi there! 👋 I'm excited to share some of my interesting projects with you. 
 These repositories showcase my work in AI computer vision, image processing, Deep learning with CNNs and more. Feel free to explore, fork, and contribute!
 
-#Deep Learning with PyTorch 2.x – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
+**Deep Learning with PyTorch 2.x:** – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
 
-AI Agents Projects :Flowise is a powerful, open-source, low-code platform for building AI-powered workflows and agents. It allows developers to design, deploy, and integrate AI models with ease
+**AI Agents Projects:** Flowise is a powerful, open-source, low-code platform for building AI-powered workflows and agents. Created chatboats for KNC product cateloge using pdf and Sahaja yoga infromation chatboat using site information
 
 ---
 
