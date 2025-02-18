@@ -3,11 +3,13 @@
 Hi there! 👋 I'm excited to share some of my interesting projects with you. 
 These repositories showcase my work in AI computer vision, image processing, Deep learning with CNNs and more. Feel free to explore, fork, and contribute!
 
+#Deep Learning with PyTorch 2.x – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
+
 ---
 
 ## 📂 List of Projects
 
-#Deep Learning with PyTorch 2.x – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
+
 ### 1. [Automatic Number Plate Recognition (ANPR) for Electronic Toll Collection](https://github.com/lalitavai/AutomaticNumberPlateRecognition) 
 
 Automatic Number Plate Recognition (ANPR) is a crucial component of Electronic Toll Collection (ETC) systems. The primary objective of this project is to detect and recognize vehicle registration plates from images. This involves processing a dataset containing labeled images of vehicle registration plates.
@@ -21,7 +23,7 @@ This project demonstrates how to train an image classifier from scratch using a 
 ![Alt text](training-scratch.png)
 ![Alt text](training-model-cratch.png)
 
-### 2. [Image Instagram Filters](https://github.com/lalitavai/imageInstgramFilters)  
+### 3. [Image Instagram Filters](https://github.com/lalitavai/imageInstgramFilters)  
 Apply Instagram-like filters to images for enhanced aesthetics.  
 **Key Features:**  
 - Predefined filters like sepia, grayscale, and more.  
@@ -29,7 +31,7 @@ Apply Instagram-like filters to images for enhanced aesthetics.
 - **Commits:** 6  
 ![Alt text](instgram-filters.png)
 ---
-### 3. [Document Scanner](https://github.com/lalitavai/documentScanner)  
+### 4. [Document Scanner](https://github.com/lalitavai/documentScanner)  
 A simple and effective tool to scan and process documents.  
 **Key Features:**  
 - Detect and crop documents from images.  
@@ -39,7 +41,7 @@ A simple and effective tool to scan and process documents.
 ![Alt text](doucmenr-scanner-project.png)
 ---
 
-### 3. [Blemish Removal](https://github.com/lalitavai/blemishRemoval)  
+### 5. [Blemish Removal](https://github.com/lalitavai/blemishRemoval)  
 A blemish removal tool using image processing techniques.  
 **Key Features:**  
 - Automatically detect and remove blemishes.  
@@ -48,7 +50,7 @@ A blemish removal tool using image processing techniques.
 ![Alt text](blemish-project.png)
 ---
 
-### 4. [Green Screen Effect](https://github.com/lalitavai/greenScreenEffect)  
+### 6. [Green Screen Effect](https://github.com/lalitavai/greenScreenEffect)  
 Implement a green screen effect to replace backgrounds in images or videos.  
 **Key Features:**  
 - Replace any green background with custom images.  
@@ -57,7 +59,7 @@ Implement a green screen effect to replace backgrounds in images or videos.
 ![Alt text](greenscreeneffect.png)
 ---
 
-### 5. [Image Cropping Tool](https://github.com/lalitavai/imageCroppingTool)  
+### 7. [Image Cropping Tool](https://github.com/lalitavai/imageCroppingTool)  
 An interactive tool for cropping images to desired dimensions.  
 **Key Features:**  
 - Supports freehand and predefined aspect ratio cropping.  
@@ -66,7 +68,7 @@ An interactive tool for cropping images to desired dimensions.
 ![Alt text](imageCropping.png)
 ---
 
-### 6. [Coin Detection and Analysis](https://github.com/lalitavai/coinDetectionAnalysis)  
+### 8. [Coin Detection and Analysis](https://github.com/lalitavai/coinDetectionAnalysis)  
 A tool to detect and analyze coins in images.  
 **Key Features:**  
 - Identify and count coins of different sizes.  
@@ -74,7 +76,7 @@ A tool to detect and analyze coins in images.
 - **Commits:** 6  
 ![Alt text](coin-detections.png)
 ---
-### 7. [Video Frame Sharpness Analyze](https://github.com/lalitavai/videoFrameSharpness)  
+### 9. [Video Frame Sharpness Analyze](https://github.com/lalitavai/videoFrameSharpness)  
 This project analyzes the sharpness (or focus) of frames in a video using two methods.
 
 **Key Features:**  
@@ -84,7 +86,7 @@ This project analyzes the sharpness (or focus) of frames in a video using two me
 - **Commits:** 4  
 ![Alt text](autofocus-video-lapacian.png)
 ---
-### 8. [Panoramic Image Stitching](https://github.com/lalitavai/panoramaImageStitching)  
+### 10. [Panoramic Image Stitching](https://github.com/lalitavai/panoramaImageStitching)  
 This project creates panoramic images by stitching multiple overlapping scene images using OpenCV's image stitching API. The result is a seamless panoramic view created from a series of input images.  
 **Key Features:**  
 - Automatic Image Stitching: Combines multiple overlapping images into a single panoramic image.
@@ -94,7 +96,7 @@ This project creates panoramic images by stitching multiple overlapping scene im
 - **Commits:** 15  
 ![Alt text](stiched-image.png)
 
-### 1. [Data Understanding & Pipeline Check](https://github.com/lalitavai/DataunderstandingAndPiplelineCheck) 
+### 11. [Data Understanding & Pipeline Check](https://github.com/lalitavai/DataunderstandingAndPiplelineCheck) 
 
 This project focuses on understanding the dataset and verifying the training pipeline before training a full-scale deep learning model. The structured approach ensures that each step in the data pipeline is validated before committing resources to extensive training.
 ![Alt text](data-understanding-classifications.png)
