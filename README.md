@@ -109,11 +109,20 @@ This project focuses on understanding the dataset and verifying the training pip
 ---
 
 ## 🛠️ Technologies Used
-- Python
+- Python 3.x
 - OpenCV
 - NumPy
+- PyTorch
+- Pandas,
+- Matplotlib
+- Flowise for Ai Agents
+- Ollama server https://ollama.com/: Storing embedding for vectorise db
 - Other libraries for image processing
 
+## 🛠️ Models Used
+- CNNs
+- segmentation (U-Net, ResNet50), 
+- object detection (YOLO, Detectron2)
 ---
 
 ## 📫 Contact Me
