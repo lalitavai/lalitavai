@@ -3,7 +3,7 @@
 Hi there! 👋 I'm excited to share some of my interesting projects with you. 
 These repositories showcase my work in AI computer vision, image processing, Deep learning with CNNs and AI Agents with flowise. Feel free to explore, fork, and contribute!
 
-**Computer Vison :** – Build interesting image processing projects like Image Instagram Filters,Document Scanner,Blemish Removal,Image Cropping Tool,Panoramic Image Stitching etc.
+**Computer Vison :** – Interesting image processing projects like Image Instagram Filters,Document Scanner,Blemish Removal,Image Cropping Tool,Panoramic Image Stitching etc.
 
 **Deep Learning with PyTorch 2.x:** – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
 
