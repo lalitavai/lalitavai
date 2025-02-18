@@ -14,6 +14,13 @@ Automatic Number Plate Recognition (ANPR) is a crucial component of Electronic T
 
 ![Alt text](NPL-detection.png)
 
+### 2. [Train an Image Classifier From Scratch](https://github.com/lalitavai/ImageClassifierFromScratch) 
+
+This project demonstrates how to train an image classifier from scratch using a deep learning model. The training process follows a structured approach to ensure effective learning and performance improvement.
+
+![Alt text](training-scratch.png)
+![Alt text](training-model-cratch.png)
+
 ### 2. [Image Instagram Filters](https://github.com/lalitavai/imageInstgramFilters)  
 Apply Instagram-like filters to images for enhanced aesthetics.  
 **Key Features:**  
