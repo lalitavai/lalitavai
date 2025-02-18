@@ -94,6 +94,11 @@ This project creates panoramic images by stitching multiple overlapping scene im
 - **Commits:** 15  
 ![Alt text](stiched-image.png)
 
+### 1. [Data Understanding & Pipeline Check](https://github.com/lalitavai/DataunderstandingAndPiplelineCheck) 
+
+This project focuses on understanding the dataset and verifying the training pipeline before training a full-scale deep learning model. The structured approach ensures that each step in the data pipeline is validated before committing resources to extensive training.
+![Alt text](data-understanding-classifications.png)
+
 --
 ## 🚀 How to Get Started
 1. Click on any project link above to explore the repository.
