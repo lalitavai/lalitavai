@@ -7,10 +7,11 @@ These repositories showcase my work in AI computer vision, image processing, Dee
 
 ## 📂 List of Projects
 
-##Deep Learning with PyTorch 2.x – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
+#Deep Learning with PyTorch 2.x – Built deep learning models for image classification (CNNs), segmentation (U-Net, ResNet50), and object detection (YOLO, Detectron2). Explored GANs for synthetic data generation, an exciting area in AI research. 
 ### 1. [Automatic Number Plate Recognition (ANPR) for Electronic Toll Collection](https://github.com/lalitavai/AutomaticNumberPlateRecognition) 
 
 Automatic Number Plate Recognition (ANPR) is a crucial component of Electronic Toll Collection (ETC) systems. The primary objective of this project is to detect and recognize vehicle registration plates from images. This involves processing a dataset containing labeled images of vehicle registration plates.
+
 ![Alt text](NPL-detection.png)
 
 ### 2. [Image Instagram Filters](https://github.com/lalitavai/imageInstgramFilters)  
