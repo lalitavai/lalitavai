@@ -51,7 +51,8 @@ Intelligent query routing automatically directs your request to the right backen
 
 🏢 Enterprise content management 📖 Knowledge base systems 🔍 Documentation portals 🚀 AI-augmented CMSs 💼 Digital transformation projects
 
-[System Architecture](https://github.com/lalitavai/Intelligent-chat-artchitecture)
+[System Architecture]
+![Alt text](Intelligent-chat-artchitecture.png)
 -----
 
 ## 📂 List of Projects
