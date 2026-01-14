@@ -69,13 +69,12 @@ These repositories showcase my work in AI computer vision, image processing, Dee
       🏢 Enterprise content management 📖 Knowledge base systems 🔍 Documentation portals 🚀 AI-augmented CMSs 💼 Digital transformation projects
 
 
-![Alt text](Intelligent-chat-artchitecture.png)
+<p align="center">
+  <img src="Intelligent-chat-artchitecture.png" alt="Intelligent chat artchitecture " width="400" height="500">
+</p>
 -----
 
-## 📂 List of Projects
-
-
-
+## 📂 List of Computer Vision Projects
 
 ### 1. [Automatic Number Plate Recognition (ANPR) for Electronic Toll Collection](https://github.com/lalitavai/AutomaticNumberPlateRecognition) 
 
