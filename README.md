@@ -5,7 +5,7 @@ Hi there! 👋 I'm excited to share some of my interesting projects with you.
 **My Digital Twin Chat Bot**:
 What Is This?
 An enterprise-grade AI-powered digital twin system built with LLM and OpenAI. This intelligent agent maintains context, understands intent, and automatically qualifies leads through natural conversations.
-![Alt text](liferay-agent-chat.png)
+![Alt text](vaibhav-twin-bot.png)
 It intelligently engages visitors, understands context across conversations, and identifies qualified leads through natural dialogue—eliminating manual first-contact handling while delivering professional, personalized interactions that reflect expertise and communication style.
 
 These repositories showcase my work in AI computer vision, image processing, Deep learning with CNNs and AI Agents with flowise. Feel free to explore, fork, and contribute!
