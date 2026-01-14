@@ -6,8 +6,11 @@ Hi there! 👋 I'm excited to share some of my interesting projects with you.
 What Is This?
 An enterprise-grade AI-powered digital twin system built with LLM and OpenAI. This intelligent agent maintains context, understands intent, and automatically qualifies leads through natural conversations.
 Try it at :https://my-twin-bot.vercel.app/
+<p align="center">
+  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="300">
+</p>
 
-![Alt text](vaibhav-twin-bot.png)
+
 It intelligently engages visitors, understands context across conversations, and identifies qualified leads through natural dialogue—eliminating manual first-contact handling while delivering professional, personalized interactions that reflect expertise and communication style.
 
 These repositories showcase my work in AI computer vision, image processing, Deep learning with CNNs and AI Agents with flowise. Feel free to explore, fork, and contribute!
