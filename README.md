@@ -22,7 +22,11 @@ These repositories showcase my work in AI computer vision, image processing, Dee
 **AI Agents Projects:** Flowise is a powerful, open-source, low-code platform for building AI-powered workflows and agents. Created chatboats for KNC product cateloge using pdf and Sahaja yoga infromation chatboat using site information
 
 **Intelligent Chat Portlet for Liferay**:
-![Alt text](liferay-agent-chat.png)
+
+<p align="center">
+  <img src="liferay-agent-chat.png" alt="Liferay agent " width="400" height="500">
+</p>
+
 
       🤖 Transforming Content Management with AI - Introducing Intelligent Chat for Liferay
       
