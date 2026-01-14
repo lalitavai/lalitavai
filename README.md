@@ -7,7 +7,7 @@ What Is This?
 An enterprise-grade AI-powered digital twin system built with LLM and OpenAI. This intelligent agent maintains context, understands intent, and automatically qualifies leads through natural conversations.
 Try it at :https://my-twin-bot.vercel.app/
 <p align="center">
-  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="300">
+  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="400" height="500">
 </p>
 
 
