@@ -7,7 +7,7 @@ What Is This?<br>
 An enterprise-grade AI-powered digital twin system built with LLM and OpenAI. This intelligent agent maintains context, understands intent, and automatically qualifies leads through natural conversations.
 ## 🎤 Voice Features - Interactive AI Assistant
 MyTwinChatBot now supports **full voice interaction** capabilities, allowing users to speak with the AI assistant naturally using their voice!
-**Try it now**: [mytwin-ai.vercel.app](https://mytwin-ai.vercel.app)
+**Try it now**: [https://my-twin-bot.vercel.app/](https://my-twin-bot.vercel.app/)
 <p align="center">
   <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="400" height="500">
 </p>
@@ -24,7 +24,7 @@ MyTwinChatBot now supports **full voice interaction** capabilities, allowing use
 
 ### 🎯 How to Use
 
-1. **Open the chat** at [[mytwin-ai.vercel.app](https://my-twin-bot.vercel.app/)](https://my-twin-bot.vercel.app/))
+1. **Open the chat** at [https://my-twin-bot.vercel.app/](https://my-twin-bot.vercel.app/)](https://my-twin-bot.vercel.app/))
 2. **Click the Settings button** (⚙️) in the top right
 3. **Configure your preferences**:
    - **Input Mode**: Choose "Voice" to speak instead of typing
