@@ -6,9 +6,8 @@ Hi there! 👋 I'm excited to share some of my interesting projects with you.
 What Is This?<br>
 An enterprise-grade AI-powered digital twin system built with LLM and OpenAI. This intelligent agent maintains context, understands intent, and automatically qualifies leads through natural conversations.
 ## 🎤 Voice Features - Interactive AI Assistant
-
 MyTwinChatBot now supports **full voice interaction** capabilities, allowing users to speak with the AI assistant naturally using their voice!
-Try it at :https://my-twin-bot.vercel.app/
+**Try it now**: [mytwin-ai.vercel.app](https://mytwin-ai.vercel.app)
 <p align="center">
   <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="400" height="500">
 </p>
@@ -40,16 +39,6 @@ Built with **Web Speech API** for browser-native voice processing:
 - **No server processing** - Everything runs in your browser
 - **No additional costs** - No cloud API calls for voice
 
-### 🌐 Browser Support
-
-✅ **Fully Supported:**
-- Chrome 25+ (Desktop & Android)
-- Microsoft Edge 79+
-- Safari 14.1+
-- Opera 27+
-
-⚠️ **Partial Support:**
-- Firefox (speech synthesis only)
 
 ### 🔐 Privacy & Security
 
@@ -68,9 +57,7 @@ The voice features work seamlessly with all existing chat functionality:
 
 All responses can be delivered as text, voice, or both simultaneously!
 
-
 ### 🚀 Future Enhancements
-
 Planned features for upcoming releases:
 - 🌍 Multi-language support
 - 🎨 Advanced voice customization (speed, pitch, tone)
@@ -79,7 +66,6 @@ Planned features for upcoming releases:
 - 🎧 Background noise reduction
 
 ### 💡 Use Cases
-
 Perfect for:
 - 👁️ **Accessibility** - Users who prefer voice over typing
 - 🚗 **Hands-free** - When typing isn't convenient
@@ -89,12 +75,6 @@ Perfect for:
 
 ---
 
-**Try it now**: [mytwin-ai.vercel.app](https://mytwin-ai.vercel.app)
-
-Click Settings → Enable Voice → Start Chatting! 🎤
-It intelligently engages visitors, understands context across conversations, and identifies qualified leads through natural dialogue—eliminating manual first-contact handling while delivering professional, personalized interactions that reflect expertise and communication style.
-
-These repositories showcase my work in AI computer vision, image processing, Deep learning with CNNs and AI Agents with flowise. Feel free to explore, fork, and contribute!
 
 **Computer Vison :** – Interesting image processing projects like Image Instagram Filters,Document Scanner,Blemish Removal,Image Cropping Tool,Panoramic Image Stitching etc.
 
