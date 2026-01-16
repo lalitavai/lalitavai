@@ -11,6 +11,7 @@ MyTwinChatBot now supports **full voice interaction** capabilities, allowing use
 <p align="center">
   <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="400" height="500">
 </p>
+
 ### ✨ Key Features
 
 - **🎙️ Voice Input** - Click the microphone button and speak your questions
