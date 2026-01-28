@@ -1,4 +1,4 @@
-# 🌟 Vaibhav Khopade — AI,Agent, Computer Vision & Enterprise Engineering
+# 🌟 Vaibhav Khopade — AI,Agents, Computer Vision & Enterprise Engineering
 
 > **Senior Software Engineer (26+ yrs)** | **AI ,Agents & Computer Vision Specialist** | **Enterprise Java & Liferay Architect**  
 > Building **AI-powered systems**, **forensic-grade detection platforms**, and **enterprise-scale applications**
