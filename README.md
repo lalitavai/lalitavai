@@ -77,7 +77,7 @@ An **enterprise-grade AI-powered digital twin** built with LLMs that maintains c
 A **full-stack forensic web application** designed to detect **AI-generated, manipulated, and authentic images** with **end-to-end case management** and **court-ready reporting**.
 
 <p align="center">
-  <img src="AI_DETECTION_DIAGRAM.png" alt="Forensic AI Detection Architecture" width="600" height="400">
+  <img src="AI_DETECTION_DIAGRAM.png" alt="Forensic AI Detection Architecture" width="400" height="400">
 </p>
 
 <details open>
@@ -149,26 +149,21 @@ A **full-stack forensic web application** designed to detect **AI-generated, man
 
 Turn complex content operations into simple conversations.
 
+
 <table>
   <tr>
     <td align="center">
-       
-       
-        <img src="liferay-agent-chat.png" alt="Liferay Agent Chat" width="420">
-     <br/>
-     <sub><b>Liferay Agent Chat</b></sub>
+     <img src="liferay-agent-chat.png" alt="Liferay Agent Chat" width="420">
+      <br/>
+      <sub><b>Liferay Agent Chat</b></sub>
     </td>
     <td align="center">
-     
-      
-        <img src="Intelligent-chat-artchitecture.png" alt="Intelligent Chat Architecture" width="420">
+      <img src="Intelligent-chat-artchitecture.png" alt="Intelligent Chat Architecture" width="420">
       <br/>
-       <sub><b>Intelligent Chat Architecture</b></sub>
-    
+      <sub><b>Intelligent Chat Architecture</b></sub>
     </td>
   </tr>
 </table>
-
 
 <details>
 <summary><strong>🎯 Examples</strong></summary>
