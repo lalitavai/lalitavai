@@ -9,7 +9,7 @@ An enterprise-grade AI-powered digital twin system built with LLM and OpenAI. Th
 MyTwinChatBot now supports **full voice interaction** capabilities, allowing users to speak with the AI assistant naturally using their voice!
 **Try it now**: [https://my-twin-bot.vercel.app/](https://my-twin-bot.vercel.app/)
 <p align="center">
-  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="400" height="500">
+  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="600" height="600">
 </p>
 
 ### ✨ Key Features
