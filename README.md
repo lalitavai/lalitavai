@@ -80,7 +80,7 @@ Perfect for:
 
 A **full-stack forensic web application** designed to detect **AI-generated, manipulated, and authentic images** with **end-to-end case management** and **court-ready reporting**.
 <p align="center">
-  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="400" height="500">
+  <img src="AI_DETECTION_DIAGRAM.png" alt="forensic web application" width="400" height="500">
 </p>
 ---
 
