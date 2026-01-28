@@ -152,17 +152,18 @@ Turn complex content operations into simple conversations.
 <table>
   <tr>
     <td align="center">
-       <sub><b>Liferay Agent Chat</b></sub>
-        <br/>
+       
+       
         <img src="liferay-agent-chat.png" alt="Liferay Agent Chat" width="420">
-    
-     
+     <br/>
+     <sub><b>Liferay Agent Chat</b></sub>
     </td>
     <td align="center">
-      <sub><b>Intelligent Chat Architecture</b></sub>
-      <br/>
-        <img src="Intelligent-chat-artchitecture.png" alt="Intelligent Chat Architecture" width="420">
+     
       
+        <img src="Intelligent-chat-artchitecture.png" alt="Intelligent Chat Architecture" width="420">
+      <br/>
+       <sub><b>Intelligent Chat Architecture</b></sub>
     
     </td>
   </tr>
