@@ -34,7 +34,7 @@ An **enterprise-grade AI-powered digital twin** built with LLMs that maintains c
 🔗 **Live Demo:** https://my-twin-bot.vercel.app/
 
 <p align="center">
-  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="500">
+  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="500" height="400">
 </p>
 
 <details open>
@@ -77,7 +77,7 @@ An **enterprise-grade AI-powered digital twin** built with LLMs that maintains c
 A **full-stack forensic web application** designed to detect **AI-generated, manipulated, and authentic images** with **end-to-end case management** and **court-ready reporting**.
 
 <p align="center">
-  <img src="AI_DETECTION_DIAGRAM.png" alt="Forensic AI Detection Architecture" width="400" height="400">
+  <img src="AI_DETECTION_DIAGRAM.png" alt="Forensic AI Detection Architecture" width="500" height="400">
 </p>
 
 <details open>
