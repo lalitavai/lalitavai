@@ -153,31 +153,43 @@ Turn complex content operations into simple conversations.
   <img src="liferay-agent-chat.png" alt="Liferay Agent Chat" width="420">
 </p>
 
-**Examples**
+<details>
+<summary><strong>🎯 Examples</strong></summary>
+
 - “Create blog titled 'Docker Guide' about containerization” → ✅ Blog created instantly  
 - “List all web content” → 📋 Formatted table with IDs, titles, dates  
 - “Update article 34180 with new pricing” → ✔️ Updated and confirmed  
 - “How to create a custom portlet?” → 📚 Answered from documentation  
 
-**Innovation**
+</details>
+<details>
+<summary><strong>🎯 **Innovation**</strong></summary>
+
 - Intelligent query routing to the right backend:
   - txtai for semantic documentation search  
   - Ollama (LLM) for general knowledge  
   - Liferay Headless API for content operations  
-  - NLP for intent detection  
+  - NLP for intent detection   
 
-**Tech Stack**
+</details>
+
+<details>
+<summary><strong>🎯 **Tech Stack**</strong></summary>
+
 - Liferay Portal 7.4+ (Java/OSGi)  
 - txtai (semantic search)  
 - Ollama (llama3.2:1b)  
 - Elasticsearch 7.17  
 - Docker & Docker Compose  
 
+</details>
+
+
 <p align="center">
   <img src="Intelligent-chat-artchitecture.png" alt="Intelligent Chat Architecture" width="420">
 </p>
 
-</details>
+
 
 ---
 
