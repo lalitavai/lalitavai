@@ -149,9 +149,21 @@ A **full-stack forensic web application** designed to detect **AI-generated, man
 
 Turn complex content operations into simple conversations.
 
-<p align="center">
-  <img src="liferay-agent-chat.png" alt="Liferay Agent Chat" width="420">
-</p>
+<table>
+  <tr>
+    <td align="center">
+        <img src="liferay-agent-chat.png" alt="Liferay Agent Chat" width="420">
+      <br/>
+      <sub><b>Liferay Agent Chat</b></sub>
+    </td>
+    <td align="center">
+        <img src="Intelligent-chat-artchitecture.png" alt="Intelligent Chat Architecture" width="420">
+      <br/>
+      <sub><b>Intelligent Chat Architecture</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 <details>
 <summary><strong>🎯 Examples</strong></summary>
@@ -183,13 +195,6 @@ Turn complex content operations into simple conversations.
 - Docker & Docker Compose  
 
 </details>
-
-
-<p align="center">
-  <img src="Intelligent-chat-artchitecture.png" alt="Intelligent Chat Architecture" width="420">
-</p>
-
-
 
 ---
 
