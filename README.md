@@ -34,7 +34,7 @@ An **enterprise-grade AI-powered digital twin** built with LLMs that maintains c
 🔗 **Live Demo:** https://my-twin-bot.vercel.app/
 
 <p align="center">
-  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="600" height="500">
+  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="600" >
 </p>
 
 <details open>
