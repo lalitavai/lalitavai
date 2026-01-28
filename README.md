@@ -76,6 +76,104 @@ Perfect for:
 
 ---
 
+## 🕵️‍♂️ Forensic Image & AI-Detection System
+
+A **full-stack forensic web application** designed to detect **AI-generated, manipulated, and authentic images** with **end-to-end case management** and **court-ready reporting**.
+<p align="center">
+  <img src="vaibhav-twin-bot.png" alt="Vaibhav Twin Bot" width="400" height="500">
+</p>
+---
+
+## 🚀 What the Application Delivers
+
+* 🧩 **End-to-end forensic web platform**
+  Detect AI-generated and manipulated images with complete **case lifecycle tracking**
+
+* 👥 **Modern UI with role-based access control**
+  Supports **Admin, Analyst, and User roles** with a verifiable **chain of custody**
+
+* 🔬 **Advanced digital image forensics**
+  Deep analysis using **EXIF, ELA, FFT, noise patterns, JPEG artifacts, and similarity metrics**
+
+* 📄 **Professional forensic reporting**
+  Generates **PDF and JSON reports** with cryptographic hashes, signatures, and structured forensic narratives suitable for legal and evidentiary workflows
+
+* ⚙️ **Scalable and production-ready architecture**
+  Background processing for large images and **Dockerized deployment** for local or server environments
+
+---
+
+## 🧠 Core Detection & Forensic Modules
+
+The system includes a comprehensive set of forensic and AI-detection techniques:
+
+* 🧾 **EXIF metadata extraction & validation**
+* 🎚 **Error Level Analysis (ELA)**
+* 🌐 **Frequency-domain analysis (FFT)**
+* 🎛 **Noise residual & sensor pattern analysis**
+* 🧱 **JPEG blockiness and compression artifact detection**
+* 🧑‍🤝‍🧑 **Face vs background consistency analysis**
+* 🔍 **Image similarity & tampering detection**
+
+  * ORB feature alignment
+  * SSIM & PSNR metrics
+* 🤖 **AI-generation detection**
+
+  * GAN-based models
+  * Diffusion models
+  * Real-image classifiers with format-aware logic
+
+---
+
+## 🖼️ Supported Image Categories
+
+* 🤖 **AI-generated images**
+
+  * GAN-based generators
+  * Stable Diffusion
+  * DALL·E
+  * Midjourney
+
+* 📷 **Authentic photographs**
+
+  * Special focus on **pre-2011 digital camera images**
+  * Sensor and camera signature validation
+
+---
+
+## 🧪 Detection Strategy
+
+The system follows a **multi-layered forensic detection approach**:
+
+* 🧠 **GAN artifact detection**
+  Identifies structural and statistical patterns common to GAN-generated imagery
+
+* 🌫 **Diffusion model detection**
+  Detects spatial and frequency anomalies introduced by diffusion-based generators
+
+* 📸 **Authenticity verification**
+  Analyzes real camera sensor noise, compression behavior, and optical signatures
+
+---
+
+## 📚 Research Foundation
+
+The detection logic is grounded in **peer-reviewed academic research**, including:
+
+* 📄 **Wang et al. (2020)** – Detection of CNN-generated images
+* 📄 **Corvi et al. (2023)** – Diffusion model image detection
+* 📄 **Lukas et al. (2006)** – Digital camera identification via sensor pattern noise
+
+---
+
+## ✅ Current Project Status
+
+* ✔️ **Core features fully implemented and working end-to-end**
+* ✔️ **Professional, court-ready forensic reports generated**
+* ✔️ **Workflow validated for real-world forensic and evidence use cases**
+
+---
+
 
 **Computer Vison :** – Interesting image processing projects like Image Instagram Filters,Document Scanner,Blemish Removal,Image Cropping Tool,Panoramic Image Stitching etc.
 
