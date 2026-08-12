@@ -184,7 +184,7 @@ Shopping reuses canonical ingredient identity rather than fuzzy matching and saf
 
 ---
 
-— Digital Twin AI Chatbot (Voice Enabled)
+—🤖  **Digital Twin AI Chatbot (Voice Enabled) **
 
 An **enterprise-grade AI-powered digital twin** built with LLMs that maintains context, understands intent, and qualifies leads through natural conversations.
 
