@@ -27,7 +27,167 @@
 
 ---
 
-## 🤖 Featured Project — Digital Twin AI Chatbot (Voice Enabled)
+## 🤖 Featured Project 
+---
+
+## 🌿 Featured Project — My Healthy Living
+
+A production-ready **personal healthy-living companion** that combines practical meal planning, recipe management, shopping, pantry tracking, progress check-ins, and configurable email routines in one mobile-friendly web application.
+
+The platform blends **Mediterranean food principles** with carefully curated **Ayurvedic food knowledge**, while keeping traditional guidance, modern nutrition, recipe verification, and personal experience clearly separated.
+
+🔗 **Live Demo:** https://my-healthy-living-guide.vercel.app
+
+<p align="center">
+  <img src="my-healthy-living-dashboard.png" alt="My Healthy Living Dashboard" width="850">
+</p>
+
+<details open>
+<summary><strong>✨ What the Application Delivers</strong></summary>
+
+- 🌞 **Personalized Today Dashboard** — Daily meals, focus, prep tasks, shopping preview, and progress
+- 📅 **Adaptive Weekly Planner** — Deterministic meal planning with exclusions, preferences, locks, replacements, and explainable recommendations
+- 🍲 **Recipe Library** — Curated recipes, favorites, My Recipes, personal versions, cooking notes, and history
+- 🛒 **Smart Shopping Workflow** — Consolidated ingredient identity, pantry subtraction, store/category grouping, print/PDF/copy/share
+- 🧺 **Pantry Management** — Have / Low / Out status with quantity-aware shopping integration
+- 📈 **Progress Tracking** — Lightweight daily check-ins with weekly and monthly views
+- 🔎 **Discover** — Recipes, ingredients, knowledge, and optional external recipe discovery
+- 🌿 **Ingredient Library** — Multilingual ingredients, where-to-buy information, pantry/shopping actions, and trusted image fallbacks
+- 📧 **Daily / Weekly Email Companion** — Timezone-aware scheduled routines with branded HTML emails and recipient-specific privacy
+- 👥 **Private Multi-user Access** — Supabase magic-link authentication, owner/demo roles, household isolation, and RLS
+- 📱 **PWA / Mobile-first UX** — Responsive design, installable application, mobile shopping mode, and safe offline fallback
+
+</details>
+
+<details>
+<summary><strong>🧠 Knowledge & Trust Architecture</strong></summary>
+
+The system separates knowledge by source and confidence rather than mixing everything into generic wellness advice.
+
+- Classical Ayurveda references
+- Institutional Ayurveda sources
+- Mediterranean dietary guidance
+- Modern nutrition sources
+- Food-safety sources
+- Source tiers and provenance
+- Human-review workflow
+- Traditional vs modern knowledge labels
+- No automatic medical or dosha diagnosis
+- No unreviewed knowledge used by the meal planner
+
+</details>
+
+<details>
+<summary><strong>🍽️ Recipe & Personalization Model</strong></summary>
+
+Three distinct recipe layers are maintained:
+
+1. **Curated Recipes** — protected editorial recipes
+2. **My Recipes** — user-created personal recipes
+3. **My Version** — personal adaptations of curated recipes
+
+Cooking experience can include:
+
+- ratings
+- quick feedback tags
+- cooking notes
+- cooking history
+- favorites
+- personal versions
+
+The original curated recipe always remains protected.
+
+</details>
+
+<details>
+<summary><strong>⚙️ Planning & Shopping Engine</strong></summary>
+
+The meal planner follows a deterministic pipeline:
+
+`hard filters → preferences → soft scoring → ranking → controlled relaxation → plan`
+
+Important safeguards include:
+
+- excluded foods are never relaxed
+- rejected recipes never enter plans
+- seeded deterministic selection
+- variety and recent-recipe penalties
+- pantry and expiry awareness
+- family / schedule / light-dinner signals
+- locked meals survive regeneration
+- reason codes explain recommendations
+
+Shopping reuses canonical ingredient identity rather than fuzzy matching and safely preserves incompatible units instead of inventing conversions.
+
+</details>
+
+<details>
+<summary><strong>📧 Notification System</strong></summary>
+
+- Daily Companion
+- Weekly Planner
+- Monthly Review
+- Prep / Shopping / Meal reminders
+- Multiple recipients
+- Per-recipient preferences
+- Europe/Athens and IANA timezone support
+- Hourly Vercel cron evaluation
+- Resend verified sender
+- Delivery audit + occurrence-key idempotency
+- Personal progress kept private from household recipients
+- App users and notification recipients remain separate concepts
+
+</details>
+
+<details>
+<summary><strong>🔐 Architecture & Security</strong></summary>
+
+- Next.js / React
+- Supabase Auth with magic links
+- PostgreSQL / Supabase
+- Row Level Security
+- Household + personal data ownership
+- Vercel deployment
+- Resend email delivery
+- PWA / offline fallback
+- Server-only service-role and email credentials
+- Private/demo access model
+- Protected editorial Studio
+- Canonical content separated from personal content
+
+</details>
+
+<details>
+<summary><strong>🛠️ Tech Stack</strong></summary>
+
+- Next.js
+- React / TypeScript
+- Tailwind CSS
+- Supabase / PostgreSQL
+- Vercel
+- Resend
+- PWA / Service Worker
+- Lucide React
+- Deterministic TypeScript planning engine
+
+</details>
+
+<details>
+<summary><strong>✅ Current Status</strong></summary>
+
+- Production deployment complete
+- Mobile-first UI complete
+- Recipe / ingredient / shopping quality audits in place
+- Cloud plans, pantry, shopping, progress and personal content supported
+- Multi-recipient notification architecture complete
+- Private demo-user testing underway
+- Further development intentionally paused while real-user feedback is collected
+
+</details>
+
+---
+
+— Digital Twin AI Chatbot (Voice Enabled)
 
 An **enterprise-grade AI-powered digital twin** built with LLMs that maintains context, understands intent, and qualifies leads through natural conversations.
 
