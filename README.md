@@ -27,9 +27,6 @@
 
 ---
 
-## 🤖 Featured Project 
----
-
 ## 🌿 Featured Project — My Healthy Living
 
 A production-ready **personal healthy-living companion** that combines practical meal planning, recipe management, shopping, pantry tracking, progress check-ins, and configurable email routines in one mobile-friendly web application.
