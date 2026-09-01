@@ -26,8 +26,43 @@
 ![Forensics](https://img.shields.io/badge/Digital-Forensics-black)
 
 ---
+## 🧠 Featured Project — EWS CareAgent — Secure RAG & Agentic AI
 
-## 🌿 Featured Project — My Healthy Living
+**CareAgent** is a production-shaped AI engineering reference platform I architected and developed to demonstrate how **RAG, LLMs and Agentic AI** can be engineered for secure enterprise applications.
+
+> **Core principle:** The model can reason and propose. The application owns authorization, approval and execution.
+
+### 🚀 Engineering Highlights
+
+* 🔎 **Permission-Aware RAG** — hybrid lexical + vector retrieval, pgvector, RRF, reranking, citations and abstention
+* 🤖 **Agentic AI** — bounded workflows, state/memory, tool selection and closed tool registry
+* 👤 **Controlled Actions** — human approval, ownership validation, TTL, reauthorization, idempotency and audit
+* 🛡️ **AI Security** — ACL-before-context, prompt-injection protection, structured validation and multi-layer guardrails
+* 📊 **AI Evaluation** — Hit@K, Precision, Recall, MRR, nDCG, adversarial and regression testing
+* 🦙 **LLMOps & Local AI** — provider abstraction, Ollama/Llama, fallback, telemetry and model/prompt lifecycle
+* 🔐 **Privacy by Design** — **Allowed? → Needed? → Must it leave?**
+
+### 🏗️ Architecture
+
+
+<p align="center">
+  <img src="careagent-architecture.png" alt="CareAgent — Secure RAG & Agentic AI Architecture" width="850">
+</p>
+
+### ⚙️ Core Stack
+
+`Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `React` · `TypeScript` · `Docker` · `Ollama` · `pytest` · `Playwright`
+
+### 💡 What CareAgent Demonstrates
+
+CareAgent is **not just an AI chatbot**. It combines retrieval, reasoning and controlled actions with conventional application security and measurable evaluation.
+
+**RAG Quality + Agentic AI + AI Security + Human Control + LLMOps**
+
+The goal is simple: build AI systems that can do useful work **without making the LLM the application's security or authorization boundary**.
+
+
+## 🌿  My Healthy Living
 
 A production-ready **personal healthy-living companion** that combines practical meal planning, recipe management, shopping, pantry tracking, progress check-ins, and configurable email routines in one mobile-friendly web application.
 
