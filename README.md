@@ -6,20 +6,21 @@ I design and build enterprise platforms and AI-powered systems, combining deep J
 
 My current focus includes Enterprise AI adoption for Liferay/DXP platforms — connecting governed content, documents, permissions, search, workflows and enterprise services with secure RAG, AI assistants and controlled agents.
 
-🧭 Core Expertise
-🏢 Liferay + Enterprise AI — RAG over enterprise content, intelligent search, AI assistants, content intelligence and agentic workflows
+🧭 **Core Expertise**
 
-🧠 RAG & LLM Engineering — embeddings, hybrid retrieval, RRF, reranking, grounding and evaluation
+🏢 **Liferay + Enterprise AI** — RAG over enterprise content, intelligent search, AI assistants, content intelligence and agentic workflows
 
-🤖 Agentic AI — tools, bounded autonomy, human approval and controlled execution
+🧠 **RAG & LLM Engineering** — embeddings, hybrid retrieval, RRF, reranking, grounding and evaluation
 
-🛡️ AI Security — permission-aware retrieval, guardrails, prompt-injection defence and adversarial testing
+🤖 **Agentic AI — tools**, bounded autonomy, human approval and controlled execution
 
-☕ Enterprise Architecture — Liferay DXP, Java/J2EE, Spring, APIs, search, integration and distributed systems
+🛡️ **AI Security** — permission-aware retrieval, guardrails, prompt-injection defence and adversarial testing
 
-👁️ Computer Vision — image forensics, ANPR, classification and video/image analysis
+☕ **Enterprise Architecture** — Liferay DXP, Java/J2EE, Spring, APIs, search, integration and distributed systems
 
-🚀 Production Engineering — Docker, PostgreSQL/pgvector, testing, observability and secure architecture
+👁️ **Computer Vision** — image forensics, ANPR, classification and video/image analysis
+
+🚀 **Production Engineering** — Docker, PostgreSQL/pgvector, testing, observability and secure architecture
 
 🧠 **AI & Computer Vision** — Image forensics, GAN & diffusion detection, OpenCV, PyTorch  
 
