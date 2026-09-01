@@ -1,7 +1,9 @@
-# 🌟 AI Engineering,Agents, Computer Vision & Enterprise Engineering ,Liferay Architect
+# 🌟 Senior Software Architect|Liferay Architect | AI Engineer|Computer Vision & AI Enterprise Engineering  | RAG | Agentic AI | LLMOps 
 
 > **Senior Software Engineer (26+ yrs)** | **AI ,Agents & Computer Vision Specialist** | **Enterprise Java & Liferay Architect**  
 > Building **AI-powered systems**, **forensic-grade detection platforms**, and **enterprise-scale applications**
+> My current focus is on **RAG, LLM engineering, Agentic AI, AI security, LLMOps and enterprise AI integration**
+> **AI integrations in Liferay  platforms** — combining modern AI capabilities with the engineering discipline required for secure, reliable business applications.
 
 ---
 
