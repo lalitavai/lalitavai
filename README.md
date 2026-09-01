@@ -8,16 +8,28 @@ My current focus includes Enterprise AI adoption for Liferay/DXP platforms — c
 
 🧭 Core Expertise
 🏢 Liferay + Enterprise AI — RAG over enterprise content, intelligent search, AI assistants, content intelligence and agentic workflows
+
 🧠 RAG & LLM Engineering — embeddings, hybrid retrieval, RRF, reranking, grounding and evaluation
+
 🤖 Agentic AI — tools, bounded autonomy, human approval and controlled execution
+
 🛡️ AI Security — permission-aware retrieval, guardrails, prompt-injection defence and adversarial testing
+
 ☕ Enterprise Architecture — Liferay DXP, Java/J2EE, Spring, APIs, search, integration and distributed systems
+
 👁️ Computer Vision — image forensics, ANPR, classification and video/image analysis
+
 🚀 Production Engineering — Docker, PostgreSQL/pgvector, testing, observability and secure architecture
+
 🧠 **AI & Computer Vision** — Image forensics, GAN & diffusion detection, OpenCV, PyTorch  
+
 🕵️ **Forensic Systems** — Court-ready reporting, chain of custody, evidence workflows  
+
 🤖 **AI Agents & Chatbots** — LLMs, Flowise, voice-enabled assistants  
----
+
+<p align="center">
+  <img src="liferay-ai-integration.png" alt="Liferay Ai Integrations" width="850">
+</p>
 
 ## 🏷️ Tech Stack
 
