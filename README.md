@@ -1,20 +1,22 @@
-# 🌟 Senior Software Architect|Liferay Architect | AI Engineer|Computer Vision & AI Enterprise Engineering  | RAG | Agentic AI | LLMOps 
+# 🌟 Senior Software Architect | Liferay Architect | AI Engineer|Computer Vision & AI Enterprise Engineering  | RAG | Agentic AI | LLMOps 
 
-> **Senior Software Engineer (26+ yrs)** | **AI ,Agents & Computer Vision Specialist** | **Enterprise Java & Liferay Architect**  
-> Building **AI-powered systems**, **forensic-grade detection platforms**, and **enterprise-scale applications**
-> ,My current focus is on **RAG, LLM engineering, Agentic AI, AI security, LLMOps and enterprise AI integration**,
-> **AI integrations in Liferay  platforms** — combining modern AI capabilities with the engineering discipline required for secure, reliable business applications.
+ **26+ Years Enterprise Engineering | Liferay + Enterprise AI | RAG, Agentic AI, LLMOps & Computer Vision**  
 
----
+I design and build enterprise platforms and AI-powered systems, combining deep Java/Liferay architecture experience with modern RAG, LLMs, Agentic AI, AI Security, LLMOps and Computer Vision.
 
-## 🧭 Quick Overview 
+My current focus includes Enterprise AI adoption for Liferay/DXP platforms — connecting governed content, documents, permissions, search, workflows and enterprise services with secure RAG, AI assistants and controlled agents.
 
-- 🧠 **AI & Computer Vision** — Image forensics, GAN & diffusion detection, OpenCV, PyTorch  
-- 🕵️ **Forensic Systems** — Court-ready reporting, chain of custody, evidence workflows  
-- 🤖 **AI Agents & Chatbots** — LLMs, Flowise, voice-enabled assistants  
-- 🏢 **Enterprise Engineering** — Java, Spring, Liferay, Docker, Elasticsearch  
-- 🚀 **Production-first mindset** — Scalable, secure, Dockerized systems  
-
+🧭 Core Expertise
+🏢 Liferay + Enterprise AI — RAG over enterprise content, intelligent search, AI assistants, content intelligence and agentic workflows
+🧠 RAG & LLM Engineering — embeddings, hybrid retrieval, RRF, reranking, grounding and evaluation
+🤖 Agentic AI — tools, bounded autonomy, human approval and controlled execution
+🛡️ AI Security — permission-aware retrieval, guardrails, prompt-injection defence and adversarial testing
+☕ Enterprise Architecture — Liferay DXP, Java/J2EE, Spring, APIs, search, integration and distributed systems
+👁️ Computer Vision — image forensics, ANPR, classification and video/image analysis
+🚀 Production Engineering — Docker, PostgreSQL/pgvector, testing, observability and secure architecture
+🧠 **AI & Computer Vision** — Image forensics, GAN & diffusion detection, OpenCV, PyTorch  
+🕵️ **Forensic Systems** — Court-ready reporting, chain of custody, evidence workflows  
+🤖 **AI Agents & Chatbots** — LLMs, Flowise, voice-enabled assistants  
 ---
 
 ## 🏷️ Tech Stack
