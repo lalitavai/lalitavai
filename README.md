@@ -46,7 +46,7 @@
 
 
 <p align="center">
-  <img src="careagent-architecture.png" alt="CareAgent — Secure RAG & Agentic AI Architecture" width="850">
+  <img src="CareAgent — Secure RAG & Agentic AI Architecture.png" alt="CareAgent — Secure RAG & Agentic AI Architecture" width="850">
 </p>
 
 ### ⚙️ Core Stack
