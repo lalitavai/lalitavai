@@ -78,6 +78,41 @@ CareAgent is **not just an AI chatbot**. It combines retrieval, reasoning and co
 
 The goal is simple: build AI systems that can do useful work **without making the LLM the application's security or authorization boundary**.
 
+## 🪷 Sahaja Yoga Online Meditation Webinar Platform
+
+
+<p align="center">
+  <img src="sahaja-webinar-platform.png" alt="Sahaja Yoga Online Meditation Webinar Platform" width="850">
+</p>
+A modern, **self-hosted webinar platform** built to support free Sahaja Yoga online meditation sessions worldwide.
+
+### 🚀 What We Built
+
+- 📅 Event & recurring session management
+- 👥 Simple public registration
+- 🔐 Personalized secure magic-link access
+- ✉️ Automated branded email reminders
+- 🎥 Live video & audio with LiveKit/WebRTC
+- 🖥️ Host, presenter & screen-sharing workflows
+- 📱 Responsive desktop & mobile experience
+- 🐳 Self-hosted Docker deployment
+- 📊 Operational, capacity & cost monitoring
+
+### ⚙️ Technology
+
+**Java 17 · Spring Boot · Next.js · React · LiveKit · WebRTC · PostgreSQL · Redis · Docker · Traefik · Brevo · Hetzner Cloud**
+
+### ✅ Current Status
+
+- Production deployment validated
+- Real Gmail delivery validated
+- 50-user / 60-minute technical load test completed
+- Development frozen for real-user validation
+- Next phase: real meditation sessions & infrastructure cost optimization
+
+> **Technology with a purpose — making free meditation more accessible while keeping the platform open, sustainable and under community control.**
+
+🪷 **Meditation for a better, more peaceful world.**
 
 ## 🌿  My Healthy Living
 
