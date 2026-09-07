@@ -28,9 +28,7 @@ My current focus includes Enterprise AI adoption for Liferay/DXP platforms — c
 
 🤖 **AI Agents & Chatbots** — LLMs, Flowise, voice-enabled assistants  
 
-<p align="center">
-  <img src="liferay-ai-integration.png" alt="Liferay Ai Integrations" width="850">
-</p>
+
 
 ## 🏷️ Tech Stack
 
@@ -43,7 +41,70 @@ My current focus includes Enterprise AI adoption for Liferay/DXP platforms — c
 ![Forensics](https://img.shields.io/badge/Digital-Forensics-black)
 
 ---
-## 🧠 Featured Project — EWS CareAgent — Secure RAG & Agentic AI
+
+## 🚀 Featured Enterprise AI Work
+
+###  From CareAgent → Liferay + Enterprise AI
+
+My recent work explores how **RAG, LLMs and Agentic AI** can be integrated into enterprise platforms without making the language model the authorization boundary.
+
+I first developed these patterns through **EWS CareAgent** — a reference architecture for permission-aware RAG, grounding, citations, guardrails, controlled agents, human approval and AI evaluation.
+
+I then applied these principles to a platform I have worked with for many years:
+
+# 🔷 EWS Liferay AI Intelligence
+
+**Open Enterprise AI Integration for Liferay**
+
+> **Your Liferay knows who can see what. Your AI should respect that authority too.**
+
+<p align="center">
+  <img src="liferay-ai-integration.png"
+       alt="EWS Liferay AI Intelligence"
+       width="850">
+</p>
+
+### 🏗️ Architecture
+
+```text
+Liferay DXP
+    ↓
+Identity & Authorization
+    ↓
+Permission-Aware Retrieval
+    ↓
+Authorized Evidence
+    ↓
+Grounding • Citations • Guardrails
+    ↓
+AI Models
+    ↓
+AI-Powered Experiences
+
+The implementation supports two retrieval approaches:
+
+LIFERAY_NATIVE — Liferay-native retrieval with current authorization
+EWS_HYBRID — external hybrid RAG for deeper retrieval and evaluation control
+🔐 Permission-Aware AI
+
+The same question can be asked as different Liferay users:
+
+Alice — Employee
+Bob — Employee + Finance
+Carol — Employee + Finance + Management
+
+Each receives only evidence available under their current Liferay authority.
+
+When Bob's Finance access is removed, Finance evidence disappears before reaching the model.
+
+The model can reason and propose.
+The application owns identity, authorization, approval and execution.
+
+⚙️ Technology
+
+Liferay DXP · Java/Spring · Python/FastAPI · React · PostgreSQL/pgvector · OAuth2 · RAG · LLMs · Docker
+
+## 🧠 Project Foundation— EWS CareAgent — Secure RAG & Agentic AI
 
 **CareAgent** is a production-shaped AI engineering reference platform I architected and developed to demonstrate how **RAG, LLMs and Agentic AI** can be engineered for secure enterprise applications.
 
