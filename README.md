@@ -79,9 +79,9 @@ Grounding • Citations • Guardrails
     ↓
 AI Models
     ↓
-AI-Powered Experiences
+AI-Powered Experiences ### 
 
-The implementation supports two retrieval approaches:
+**The implementation supports two retrieval approaches:**
 
 LIFERAY_NATIVE — Liferay-native retrieval with current authorization
 EWS_HYBRID — external hybrid RAG for deeper retrieval and evaluation control
