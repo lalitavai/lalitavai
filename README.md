@@ -84,9 +84,8 @@ When Bob's Finance access is removed, Finance evidence disappears before reachin
 The model can reason and propose.
 The application owns identity, authorization, approval and execution.
 
-⚙️ Technology
-
-Liferay DXP · Java/Spring · Python/FastAPI · React · PostgreSQL/pgvector · OAuth2 · RAG · LLMs · Docker
+### ⚙️ Technology
+**Liferay DXP  · Java/Spring ·  Python/FastAPI · React · PostgreSQL/pgvector · OAuth2 · RAG · Redis · Docker · LLMs**
 
 ## 🧠 Project Foundation— EWS CareAgent — Secure RAG & Agentic AI
 
