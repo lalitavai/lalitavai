@@ -64,22 +64,6 @@ I then applied these principles to a platform I have worked with for many years:
        width="850">
 </p>
 
-### 🏗️ Architecture
-
-```text
-Liferay DXP
-    ↓
-Identity & Authorization
-    ↓
-Permission-Aware Retrieval
-    ↓
-Authorized Evidence
-    ↓
-Grounding • Citations • Guardrails
-    ↓
-AI Models
-    ↓
-AI-Powered Experiences ### 
 
 **The implementation supports two retrieval approaches:**
 
